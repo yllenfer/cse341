@@ -1,0 +1,9 @@
+{
+    "contact":{
+        "firstname": "Georges",
+        "lastName": "Janin",
+        "email": "georgesjanin@gmail.com",
+        "favoriteColor": "blue",
+        "birthday": "05/19/1983"
+    }
+}
